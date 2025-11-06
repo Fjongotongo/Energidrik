@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergydrinkAPI", "EnergydrinkAPI\EnergydrinkAPI.csproj", "{6159E276-AA42-43E0-A5CF-6AB0FF2D2CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergydrinkTests", "EnergydrinkTests\EnergydrinkTests.csproj", "{3A3F792A-1CEC-434A-A1B8-DD2D69284048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6159E276-AA42-43E0-A5CF-6AB0FF2D2CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6159E276-AA42-43E0-A5CF-6AB0FF2D2CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6159E276-AA42-43E0-A5CF-6AB0FF2D2CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6159E276-AA42-43E0-A5CF-6AB0FF2D2CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3F792A-1CEC-434A-A1B8-DD2D69284048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3F792A-1CEC-434A-A1B8-DD2D69284048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3F792A-1CEC-434A-A1B8-DD2D69284048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3F792A-1CEC-434A-A1B8-DD2D69284048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B11A50D-0DA6-4F48-98E3-A6C53E564E49}
+	EndGlobalSection
+EndGlobal
